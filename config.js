@@ -1,6 +1,6 @@
 module.exports = {
-    "prefix": "!",
-    "token_bot": "ODI3Mzg3MTA1NzUxMjAzODUx.YGaSSg.k0AkDxqGwX_WbX2dXlHNCxZtxIQ",
+    "prefix": "&",
+    "token_bot": "",
     "colors": {
       "error": "0xFF0000",
       "success": "0x00FF46",
